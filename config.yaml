@@ -1,0 +1,11 @@
+cms_type: sanity  
+
+image_folder: ""
+state_file: state.json
+
+sanity:
+  project_id: ""
+  dataset: ""
+  api_version: ""
+  token: "" 
+  type: ""
